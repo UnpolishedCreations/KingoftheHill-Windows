@@ -1,0 +1,11 @@
+-- CREDIT --
+
+Code	-	Nathan Skoczylas
+
+SFX	-	Bleep Blop Audio (Unity Asset Store)
+		http://bleepblopaudio.com
+
+Music	- 	Daniel (Unity Asset Store)
+		http://u3d.as/publisher/affordable-audio-4-everyone/2BB
+			
+Textures-	ZGONAssets (Unity Asset Store)
